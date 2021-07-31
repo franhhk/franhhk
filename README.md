@@ -1,6 +1,8 @@
 ## 🙋🏻‍♀️ Hello, Stranger!
 ***i am...*** a human being studying various fields in development based around JavaScript
 
+***i speak...*** Korean, English and Chinese
+
 ***i love...*** cycling, old crispy books and people who wear whatever they want
 
 ***i value...*** the environment, the people i love, and following my heart
