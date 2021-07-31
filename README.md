@@ -1,4 +1,4 @@
-## 🙋🏻‍♀️ Hello, Stranger
+## 🙋🏻‍♀️ Hello, Stranger!
 ***i am...*** a human being studying various fields in development based around JavaScript
 
 ***i love...*** cycling, old crispy books and people who wear whatever they want
