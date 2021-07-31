@@ -1,3 +1,16 @@
+## 🙋🏻‍♀️ Hello, Stranger
+***i am...*** a human being studying various fields in development based around JavaScript
+
+***i love...*** cycling, old crispy books and people who wear whatever they want
+
+***i value...*** the environment, the people i love, and following my heart
+
+***whenever i'm stressed...*** i dance in front of the mirror with my favorite workout song on loop
+
+***i dream of...*** being the best dancing front-end developer on earth
+
+<br>
+
 ## 🛠 Tech Stack
 **Languages** Javascript(ES6+), HTML, CSS
 
