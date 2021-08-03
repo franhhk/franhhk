@@ -5,7 +5,7 @@
 
 ***i love...*** cycling, old crispy books and people who wear whatever they want
 
-***i value...*** the environment, the people i love, and following my heart
+***i value...*** the environment, people i love, and following my heart
 
 ***whenever i'm stressed...*** i dance in front of the mirror with my favorite workout song on loop
 
