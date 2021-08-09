@@ -9,7 +9,7 @@
 
 ***whenever i'm stressed...*** i dance in front of the mirror with my favorite workout song on loop
 
-***i dream of...*** being the best dancing front-end developer on earth
+***i dream of...*** being the best dancing front-end developer
 
 <br>
 
