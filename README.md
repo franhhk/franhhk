@@ -7,10 +7,6 @@
 
 ***i value...*** the environment, people i love, and following my heart
 
-***whenever i'm stressed...*** i dance in front of the mirror with my favorite workout song on loop
-
-***i dream of...*** being the best dancing front-end developer
-
 <br>
 
 ## 🛠 Tech Stack
