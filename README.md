@@ -5,7 +5,7 @@
 
 ***i love...*** cycling, old crispy books and people who wear whatever they want
 
-***i value...*** the environment, people i love, and following my heart
+***i value...*** the environment, people i love, and things I'm passionate about
 
 <br>
 
