@@ -14,7 +14,7 @@
 
 **Front-End** React(hooks), Redux, styled-components
 
-**Back-End** Node.js, Express, MySQL, Sequeilize
+**Back-End** Node.js, Express, MySQL, Sequelize
 
 **Others** AWS(EC2, S3, RDS), Git, Postman, Adobe Illustrator
 
