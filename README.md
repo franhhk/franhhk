@@ -16,6 +16,8 @@
 
 **Back-End** Node.js, Express, MySQL, Sequelize
 
+**Learning** TypeScript, Next.js
+
 **Others** AWS(EC2, S3, RDS), Git, Postman, Adobe Illustrator
 
 <!---
